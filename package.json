@@ -1,0 +1,15 @@
+{
+  "name": "cryptoledger-xpub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "xpub.service.js",
+  "scripts": {
+    "run": "node xpub.service.js"
+  },
+  "author": "Luke Sands",
+  "license": "ISC",
+  "dependencies": {
+    "bs58check": "^2.1.2",
+    "bip32": "^2.0.5"
+  }
+}
